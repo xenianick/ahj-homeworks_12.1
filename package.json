@@ -44,6 +44,7 @@
     "autosize": "^4.0.2",
     "core-js": "3",
     "crypto-js": "^4.0.0",
+    "websocket-extensions": "^0.1.4",
     "worker-loader": "^2.0.0"
   }
 }
